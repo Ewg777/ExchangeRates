@@ -1,0 +1,190 @@
+{
+    "currenciesInfo": [
+        {
+            "code": "AUD",
+            "title": "Australian Dollar",
+            "countryISOCode": "AUS",
+            "countryFlag": "Australia"
+        },
+        {
+            "code": "BGN",
+            "title": "Bulgarian Lev",
+            "countryISOCode": "BGR",
+            "countryFlag": "Bulgaria"
+        },
+        {
+            "code": "BRL",
+            "title": "Brazilian Real",
+            "countryISOCode": "BRA",
+            "countryFlag": "Brazil"
+        },
+        {
+            "code": "CAD",
+            "title": "Canadian Dollar",
+            "countryISOCode": "CAD",
+            "countryFlag": "Canada"
+        },
+        {
+            "code": "CHF",
+            "title": "Swiss Franc",
+            "countryISOCode": "CHE",
+            "countryFlag": "Swiss"
+        },
+        {
+            "code": "CNY",
+            "title": "Yuan Renminbi",
+            "countryISOCode": "CHN",
+            "countryFlag": "China"
+        },
+        {
+            "code": "CZK",
+            "title": "Czech Koruna",
+            "countryISOCode": "CZE",
+            "countryFlag": "Czech"
+        },
+        {
+            "code": "DKK",
+            "title": "Danish Krone",
+            "countryISOCode": "DNK",
+            "countryFlag": "Denmark"
+        },
+        {
+            "code": "EUR",
+            "title": "Euro",
+            "countryISOCode": "EU",
+            "countryFlag": "EU"
+        },
+        {
+            "code": "GBP",
+            "title": "British Pound",
+            "countryISOCode": "UK",
+            "countryFlag": "UK"
+        },
+        {
+            "code": "HKD",
+            "title": "Hong Kong Dollar",
+            "countryISOCode": "HKG",
+            "countryFlag": "HK"
+        },
+        {
+            "code": "HRK",
+            "title": "Croatian Kuna",
+            "countryISOCode": "HRV",
+            "countryFlag": "Croatia"
+        },
+        {
+            "code": "HUF",
+            "title": "Hungarian Forint",
+            "countryISOCode": "HUN",
+            "countryFlag": "Hungary"
+        },
+        {
+            "code": "IDR",
+            "title": "Indonesian Rupiah",
+            "countryISOCode": "IDN",
+            "countryFlag": "Indonesia"
+        },
+        {
+            "code": "ILS",
+            "title": "Israeli New Shekel",
+            "countryISOCode": "ISR",
+            "countryFlag": "Israel"
+        },
+        {
+            "code": "INR",
+            "title": "Indian Rupee",
+            "countryISOCode": "IND",
+            "countryFlag": "India"
+        },
+        {
+            "code": "ISK",
+            "title": "Icelandic Króna",
+            "countryISOCode": "ISL",
+            "countryFlag": "Iceland"
+        },
+        {
+            "code": "JPY",
+            "title": "Japanese Yen",
+            "countryISOCode": "JPN",
+            "countryFlag": "Japan"
+        },
+        {
+            "code": "KRW",
+            "title": "South Korean Won",
+            "countryISOCode": "KOR",
+            "countryFlag": "SouthKorea"
+        },
+        {
+            "code": "MXN",
+            "title": "Mexican Peso",
+            "countryISOCode": "MEX",
+            "countryFlag": "Mexico"
+        },
+        {
+            "code": "MYR",
+            "title": "Malaysian Ringgit",
+            "countryISOCode": "MYS",
+            "countryFlag": "Malaysia"
+        },
+        {
+            "code": "NOK",
+            "title": "Norwegian Krone",
+            "countryISOCode": "NOR",
+            "countryFlag": "Norway"
+        },
+        {
+            "code": "NZD",
+            "title": "New Zealand Dollar",
+            "countryISOCode": "NZL",
+            "countryFlag": "NewZealand"
+        },
+        {
+            "code": "PHP",
+            "title": "Philippine Peso",
+            "countryISOCode": "PHL",
+            "countryFlag": "Philippines"
+        },
+        {
+            "code": "PLN",
+            "title": "Polish Złoty",
+            "countryISOCode": "POL",
+            "countryFlag": "Poland"
+        },
+        {
+            "code": "RUB",
+            "title": "Russian Ruble",
+            "countryISOCode": "RUS",
+            "countryFlag": "Russia"
+        },
+        {
+            "code": "SEK",
+            "title": "Swedish Krona",
+            "countryISOCode": "SWE",
+            "countryFlag": "Sweden"
+        },
+        {
+            "code": "SGD",
+            "title": "Singapore Dollar",
+            "countryISOCode": "SGP",
+            "countryFlag": "Singapore"
+        },
+        {
+            "code": "THB",
+            "title": "Thai Baht",
+            "countryISOCode": "THA",
+            "countryFlag": "Thailand"
+        },
+        {
+            "code": "USD",
+            "title": "US Dollar",
+            "countryISOCode": "US",
+            "countryFlag": "US"
+        },
+        {
+            "code": "ZAR",
+            "title": "South African Rand",
+            "countryISOCode": "ZAF",
+            "countryFlag": "SouthAfrica"
+        }
+    ]
+}
